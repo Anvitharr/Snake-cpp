@@ -4,10 +4,26 @@ Snake is the common name for a video game concept where the player maneuvers a l
 This Game uses C++ as it's Foundation and has the following features,
 
 Features:
+
+
+
+
 Play Game
 Proper Menu Systems
 Screens that display credits and instructions
+
+
+
+
+
 How to Play:
+
+
+
+
+
+
+
 W,A,S,D to change direction of the Snake.
 Eat the Fruit to Make the Snake Grow. With each fruit 10 Points will be Added to the score.
 If Snake eats itself, game will be over.
